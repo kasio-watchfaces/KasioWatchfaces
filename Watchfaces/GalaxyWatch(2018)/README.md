@@ -14,7 +14,7 @@ KasioG42WR.wgt
 
 ---
 
-## NOT compatible
+## NOT compatible devices
 
 Galaxy Watch Active  
 Galaxy Watch Active2  
@@ -26,4 +26,5 @@ Galaxy Watch3
 
 ```bash
 sdb connect <watchIP>
+
 sdb install <watchface>
